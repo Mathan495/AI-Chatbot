@@ -12,8 +12,8 @@ body{
     background-color: #f0f2f5;
 }
 .chat-container{
-    width: 380px;
-    height: 635px;
+    width: 395px;
+    height: 780px;
     display: flex;
     flex-direction: column;
     border-radius: 0px;
@@ -79,4 +79,5 @@ button{
 }
 button:hover{
     background-color: #007e39;
+
 }
